@@ -73,10 +73,3 @@ The output will be a CSV file with an additional column `target_label`, which re
 
 ---
 
-## Disclaimer
-
-**Copyrights Reserved**:  
-@Codebasics Inc  
-@LearnerX Pvt Ltd  
-
-This project, including its code and resources, is intended solely for educational purposes and should not be used for any commercial purposes without proper authorization.
